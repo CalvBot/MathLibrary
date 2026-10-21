@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.log
+*.db
+*.opendb
+
+# Build outputs
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+.canvas_token
+
+# Downloaded briefs and learning material
+BRIEF - Maths for Games 1_ Custom Data Types.html
+BRIEF - Maths for Games 1_ Custom Data Types.md
+BRIEF - meta.json
+MathLibraryUnitTests_Student.zip
+creative-head.png
+image-5.png
